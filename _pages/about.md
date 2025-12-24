@@ -29,8 +29,8 @@ I am a senior undergraduate student majoring in Information and Computational Sc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2025**][Contrastive private data synthesis via weighted multi-plm fusion]
-(https://openreview.net/pdf?id=oRdfFS7xO5)
+[**ICML 2025**]
+[Contrastive private data synthesis via weighted multi-PLM fusion](https://openreview.net/pdf?id=oRdfFS7xO5)
 
 Tianyuan Zou, Yang Liu, Peng Li, **Yufei Xiong**, Jianqing Zhang, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang
 
