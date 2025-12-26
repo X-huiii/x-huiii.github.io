@@ -45,11 +45,11 @@ Tianyuan Zou, Yang Liu, Peng Li, **Yufei Xiong**, Jianqing Zhang, Jingjing Liu, 
 - *2023.10* National Scholarship (Top 0.2%), Ministry of Education of the People’s Republic of China.
 
 # 🏅Competitions
-- *2025.05* Outstanding Winner (Top 0.01%) & Informs Award, Mathematical Contest in Modeling (MCM 2025).
+- *2025.05* Outstanding Winner (Top 0.01%) & INFORMS Award, Mathematical Contest in Modeling (MCM 2025).
 - *2023.06* National First Prize, China Robotics and Artificial Intelligence Competition.
 - *2023.05* National First Prize, National College Students Market Research and Analysis Competition. 
 
-# 📖 Educations
+# 📖 Education
 - *2022.09* – Present, B.S. in Information and Computational Science, School of Science, Harbin Institute of Technology (Weihai).
 
 # 💬 Miscellaneous
