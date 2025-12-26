@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a senior undergraduate student majoring in Information and Computational Science at Harbin Institute of Technology (Weihai). My academic interests lie in optimization theory, learning dynamics, and AI-related modeling problems. I am particularly interested in mathematically grounded approaches to optimization and learning systems. I am preparing to begin my Ph.D. studies in the Department of Systems Engineering and Engineering Management (SEEM) at The Chinese University of Hong Kong in August 2026.
+Hi, everyone! I am currently a senior undergraduate student at [Harbin Institute of Technology](https://www.hit.edu.cn), Weihai, China, working under the supervision of [Prof. Sitian Qin](https://homepage.hit.edu.cn/qin). My research lies at the intersection of queueing theory and optimization, with a primary focus on learning dynamics within AI-enabled service and decision systems. Specifically, I am interested in developing analytically grounded models for modern service operations. Starting in August 2026, I will join the [Department of Systems Engineering and Engineering Management (SEEM)](https://www.se.cuhk.edu.hk/) at The Chinese University of Hong Kong as a Ph.D. student.
 
 
 # 🔥 News
@@ -39,11 +39,20 @@ Tianyuan Zou, Yang Liu, Peng Li, **Yufei Xiong**, Jianqing Zhang, Jingjing Liu, 
 
 
 # 🎖 Honors and Awards
-- *2025.05* Outstanding Winner (Top 0.01%) in the Mathematical Contest in Modeling (MCM 2025).
-- *2023.10* National Scholarship. 
+- *2025.12* BYD Scholarship, BYD Company Limited.
+- *2024.12* Top Ten Outstanding Student Leaders, Harbin Institute of Technology.
+- *2024.05* Top Ten Outstanding Youth League Cadre, Harbin Institute of Technology.
+- *2023.10* National Scholarship (Top 0.2%), Ministry of Education of the People’s Republic of China.
+
+# 🏅Competitions
+- *2025.05* Outstanding Winner (Top 0.01%) & Informs Award, Mathematical Contest in Modeling (MCM 2025).
+- *2023.06* National First Prize, China Robotics and Artificial Intelligence Competition.
+- *2023.05* National First Prize, National College Students Market Research and Analysis Competition. 
 
 # 📖 Educations
-- *2022.09 - now*, Undergraduate, School of Science, HIT.
+- *2022.09* – Present, B.S. in Information and Computational Science, School of Science, Harbin Institute of Technology (Weihai).
 
 # 💬 Miscellaneous
-- I love Chiikawa.
+- 🧸 A big fan of Chiikawa.
+- ☕ Practicing Latte Art to stay caffeinated.
+- 🎮 An active player of Brawl Stars.
